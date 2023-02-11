@@ -40,12 +40,3 @@
         display: inline-block;
       }
 
-
- p {
-        font-size: 16px;
-        transition: all 0.3s ease;
-      }
-      p:hover {
-        transform: scale(1.1);
-        cursor: pointer;
-      }
